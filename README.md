@@ -1,5 +1,8 @@
 # 💫 About Me:
-I’m passionate about building intelligent systems, designing scalable data pipelines, and applying machine learning to real-world problems. My work spans recommender systems, deep learning for medical imaging, business intelligence, and data engineering using modern cloud technologies.
+I am a student from the Faculty of Information Systems, majoring in Digital Business and Artificial Intelligence.
+I love exploring new technologies and building small projects to sharpen my skills.
+I am especially interested in machine learning, artificial intelligence, and data engineering.
+I believe that learning must go hand in hand with practice, so I always try to turn ideas into small projects to improve myself.
 
 
 ## 🌐 Socials:
